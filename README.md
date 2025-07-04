@@ -72,9 +72,9 @@ I chose **Google Colab** because it enables:
 ### 📊 Programming & Tools:
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/433a444c-1b9c-4539-9fcd-b565aedf9aa9" alt="python" title="python" height="35"/>
-  <img src="https://github.com/user-attachments/assets/244358c1-ce41-496a-95fa-c4baca2301c2" alt="markdown" title="markdown" height="35"/>
-  <img src="https://github.com/user-attachments/assets/ac62d133-e81e-4d48-adfa-1388367ff322" alt="Colab" title="colab" height="35"/>
+  <img src="https://github.com/user-attachments/assets/433a444c-1b9c-4539-9fcd-b565aedf9aa9" alt="python" title="python" height="15"/>
+  <img src="https://github.com/user-attachments/assets/244358c1-ce41-496a-95fa-c4baca2301c2" alt="markdown" title="markdown" height="15"/>
+  <img src="https://github.com/user-attachments/assets/ac62d133-e81e-4d48-adfa-1388367ff322" alt="Colab" title="colab" height="15"/>
 </p>
 
 ### 💻 Python Libraries:
