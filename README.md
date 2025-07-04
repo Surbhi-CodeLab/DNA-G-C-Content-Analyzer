@@ -9,7 +9,7 @@
 ## ❓ What it is ?
 
 - A simple and interactive tool to analyze the **GC content** of DNA sequences.
-- Built entirely in **Python**, running through **Google Colab**—no setup required.
+- Built entirely in **Python**, running through **Google Colab** - no setup required.
   
 ---
 
@@ -47,7 +47,7 @@ GC content plays a vital role in:
 Manually calculating GC content or using rigid tools can be slow and limited.  
 I built this notebook to provide:
 - A **clean, interactive, beginner-friendly** interface  
-- **Browser-based** — no coding experience or installations needed
+- **Browser-based** - no coding experience or installations needed
 - A small step to make bioinformatics more **accessible and understandable**
 
 ---
@@ -56,14 +56,14 @@ I built this notebook to provide:
 
 I chose **Google Colab** because it enables:
 
-- ✅ **Zero setup** — just open the notebook and run it
-- ✅ **Cross-platform access** — works on laptops, tablets, or phones
-- ✅ **Beginner-friendly** — perfect for non-coders or early learners in bioinformatics
-- ✅ **Code visibility** — great for anyone curious to learn
-- ✅ **Interactive UI** — thanks to Colab widgets (no need for external GUI)
-- ✅ **Open source & shareable** — promotes transparency and educational use
+- ✅ **Zero setup** - just open the notebook and run it
+- ✅ **Cross-platform access** - works on laptops, tablets, or phones
+- ✅ **Beginner-friendly** - perfect for non-coders or early learners in bioinformatics
+- ✅ **Code visibility** - great for anyone curious to learn
+- ✅ **Interactive UI** - thanks to Colab widgets (no need for external GUI)
+- ✅ **Open source & shareable** - promotes transparency and educational use
   
- <i> ⚠️ Note: The interface is intentionally kept simple and clean to make it accessible for everyone — especially biology students and non-programmers. Since this is built using Google Colab, it comes with some limitations in GUI design compared to full desktop/web apps. It prioritizes accessibility and clarity over visual complexity. </i>
+ <i> ⚠️ Note: The interface is intentionally kept simple and clean to make it accessible for everyone - especially biology students and non-programmers. Since this is built using Google Colab, it comes with some limitations in GUI design compared to full desktop/web apps. It prioritizes accessibility and clarity over visual complexity. </i>
 
 ---
 
@@ -97,9 +97,9 @@ I chose **Google Colab** because it enables:
 ## 📃 About Sample Sequences
 The tool has been tested using real viral genome sequences from the **NCBI Nucleotide Database**:
 
-- `AY545919.1` — SARS coronavirus isolate CFB/SZ/94/03, complete genome
-- `AY545918.1` — SARS coronavirus isolate HC/GZ/32/03, complete genome
-- `AY545917.1` — SARS coronavirus isolate HC/GZ/81/03, complete genome
+- `AY545919.1` - SARS coronavirus isolate CFB/SZ/94/03, complete genome
+- `AY545918.1` - SARS coronavirus isolate HC/GZ/32/03, complete genome
+- `AY545917.1` - SARS coronavirus isolate HC/GZ/81/03, complete genome
   
 📌 Source:
 <p align="left">
@@ -111,7 +111,7 @@ The tool has been tested using real viral genome sequences from the **NCBI Nucle
 
 ## 📜 License
 This project is licensed under the [MIT License](https://github.com/Surbhi-CodeLab/DNA-G-C-Content-Analyzer/blob/main/LICENSE).  
-You are free to use, modify, and distribute it — but **please provide credit**.
+You are free to use, modify, and distribute it - but **please provide credit**.
 
 ---
 
@@ -124,5 +124,5 @@ Feel free to open an issue for bugs, suggestions, or ideas. 🤝
 <p>
 <h4 align="center"><i> "Where letters weave life’s secret song, GC ensures it stays strong." </i> </h4>
   <h4 align="center"><i> -Surbhi </i></h4>
- <h4 align="center"> Thank you for checking out this project! </h4>
+ <h4 align="center"> Thank you for checking out this project ! </h4>
 </p>
